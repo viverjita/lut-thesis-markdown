@@ -1,3 +1,4 @@
+Blog post for the aritcle: https://paulihuhtiniemi.com/blog/2019/07/03/masters-thesis-markdown 
 Thesis template in Markdown, uses [LUT University guidelines](https://uni.lut.fi/en/web/lut.fi-eng/master-s-thesis-project4). Adapted from https://github.com/tompollard/phd_thesis_markdown by Tom Pollard, head over to original repository for more information on how this template is organized and what requirements there are.
 
 You may view example of generated PDF in `output/thesis.pdf`.
